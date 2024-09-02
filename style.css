@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: inherit;
+    list-style: none;
+    text-decoration: none;  
+}
+
+/* block */
+/* inline-block */
+
+/* h1{
+    display: inline-block;
+} */
+
+/* 
+h1{
+    text-align: center;
+}
+i{
+    display: block;
+    text-align: center;
+} */
+
+
+div {
+    border: 2px solid gray;
+    width: 200px;
+    /* margin: 100px; */
+    /* margin-top: 100px; */
+    /* margin-left: 100px; */
+    display: inline-block;
+    /* margin-left: 100px; */
+    padding: 30px;
+    border-radius: 30px;
+}
+
